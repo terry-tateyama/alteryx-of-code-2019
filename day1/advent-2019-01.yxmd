@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="174" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="100" />
+          <Fields>
+            <Field name="mass" />
+          </Fields>
+          <Data>
+            <r>
+              <c>94735</c>
+            </r>
+            <r>
+              <c>80130</c>
+            </r>
+            <r>
+              <c>127915</c>
+            </r>
+            <r>
+              <c>145427</c>
+            </r>
+            <r>
+              <c>89149</c>
+            </r>
+            <r>
+              <c>91232</c>
+            </r>
+            <r>
+              <c>100629</c>
+            </r>
+            <r>
+              <c>97340</c>
+            </r>
+            <r>
+              <c>86278</c>
+            </r>
+            <r>
+              <c>87034</c>
+            </r>
+            <r>
+              <c>147351</c>
+            </r>
+            <r>
+              <c>123045</c>
+            </r>
+            <r>
+              <c>91885</c>
+            </r>
+            <r>
+              <c>85973</c>
+            </r>
+            <r>
+              <c>64130</c>
+            </r>
+            <r>
+              <c>113244</c>
+            </r>
+            <r>
+              <c>58968</c>
+            </r>
+            <r>
+              <c>76296</c>
+            </r>
+            <r>
+              <c>127931</c>
+            </r>
+            <r>
+              <c>98145</c>
+            </r>
+            <r>
+              <c>120731</c>
+            </r>
+            <r>
+              <c>98289</c>
+            </r>
+            <r>
+              <c>110340</c>
+            </r>
+            <r>
+              <c>118285</c>
+            </r>
+            <r>
+              <c>60112</c>
+            </r>
+            <r>
+              <c>57177</c>
+            </r>
+            <r>
+              <c>58791</c>
+            </r>
+            <r>
+              <c>59012</c>
+            </r>
+            <r>
+              <c>66950</c>
+            </r>
+            <r>
+              <c>139387</c>
+            </r>
+            <r>
+              <c>145378</c>
+            </r>
+            <r>
+              <c>86204</c>
+            </r>
+            <r>
+              <c>147082</c>
+            </r>
+            <r>
+              <c>84956</c>
+            </r>
+            <r>
+              <c>134161</c>
+            </r>
+            <r>
+              <c>148664</c>
+            </r>
+            <r>
+              <c>74278</c>
+            </r>
+            <r>
+              <c>96746</c>
+            </r>
+            <r>
+              <c>144525</c>
+            </r>
+            <r>
+              <c>81214</c>
+            </r>
+            <r>
+              <c>70966</c>
+            </r>
+            <r>
+              <c>107050</c>
+            </r>
+            <r>
+              <c>134179</c>
+            </r>
+            <r>
+              <c>138587</c>
+            </r>
+            <r>
+              <c>80236</c>
+            </r>
+            <r>
+              <c>139871</c>
+            </r>
+            <r>
+              <c>104439</c>
+            </r>
+            <r>
+              <c>64643</c>
+            </r>
+            <r>
+              <c>145453</c>
+            </r>
+            <r>
+              <c>94791</c>
+            </r>
+            <r>
+              <c>51690</c>
+            </r>
+            <r>
+              <c>94189</c>
+            </r>
+            <r>
+              <c>148476</c>
+            </r>
+            <r>
+              <c>79956</c>
+            </r>
+            <r>
+              <c>81760</c>
+            </r>
+            <r>
+              <c>149796</c>
+            </r>
+            <r>
+              <c>109544</c>
+            </r>
+            <r>
+              <c>57533</c>
+            </r>
+            <r>
+              <c>142999</c>
+            </r>
+            <r>
+              <c>126419</c>
+            </r>
+            <r>
+              <c>115434</c>
+            </r>
+            <r>
+              <c>57092</c>
+            </r>
+            <r>
+              <c>64244</c>
+            </r>
+            <r>
+              <c>109663</c>
+            </r>
+            <r>
+              <c>94701</c>
+            </r>
+            <r>
+              <c>109265</c>
+            </r>
+            <r>
+              <c>145851</c>
+            </r>
+            <r>
+              <c>95183</c>
+            </r>
+            <r>
+              <c>84433</c>
+            </r>
+            <r>
+              <c>53818</c>
+            </r>
+            <r>
+              <c>106234</c>
+            </r>
+            <r>
+              <c>127380</c>
+            </r>
+            <r>
+              <c>149774</c>
+            </r>
+            <r>
+              <c>59601</c>
+            </r>
+            <r>
+              <c>138851</c>
+            </r>
+            <r>
+              <c>54488</c>
+            </r>
+            <r>
+              <c>100877</c>
+            </r>
+            <r>
+              <c>136952</c>
+            </r>
+            <r>
+              <c>61538</c>
+            </r>
+            <r>
+              <c>67705</c>
+            </r>
+            <r>
+              <c>60299</c>
+            </r>
+            <r>
+              <c>130769</c>
+            </r>
+            <r>
+              <c>113176</c>
+            </r>
+            <r>
+              <c>106723</c>
+            </r>
+            <r>
+              <c>133280</c>
+            </r>
+            <r>
+              <c>111065</c>
+            </r>
+            <r>
+              <c>63688</c>
+            </r>
+            <r>
+              <c>139307</c>
+            </r>
+            <r>
+              <c>122703</c>
+            </r>
+            <r>
+              <c>60162</c>
+            </r>
+            <r>
+              <c>89567</c>
+            </r>
+            <r>
+              <c>63994</c>
+            </r>
+            <r>
+              <c>66608</c>
+            </r>
+            <r>
+              <c>126376</c>
+            </r>
+            <r>
+              <c>136052</c>
+            </r>
+            <r>
+              <c>112255</c>
+            </r>
+            <r>
+              <c>98525</c>
+            </r>
+            <r>
+              <c>134023</c>
+            </r>
+            <r>
+              <c>141479</c>
+            </r>
+            <r>
+              <c>98200</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="270" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="FLOOR([mass]/3)-2" field="fuel" size="4" type="Int32" />
+            <FormulaField expression="[Engine.IterationNumber]" field="iteration" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>fuel</AnnotationText>
+          <DefaultAnnotationText><![CDATA[fuel = FLOOR([mass]/3)-2
+iteration = [Engine.IterationNumber]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="342" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="fuel" action="Sum" rename="Sum_fuel" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="245" y="245" width="181" height="145" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>part II</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="342" y="306" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="fuel" action="Sum" rename="Sum_fuel" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="23">
+          <GuiSettings>
+            <Position x="270" y="294" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name>advent-2019-01 (8)</Name>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="advent-2019-01.yxmc" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="23" Connection="Input3" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output7" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>advent-2019-01</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
