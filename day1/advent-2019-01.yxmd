@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="1">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="174" y="162" />
+        <Position x="54" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -324,7 +324,7 @@
     </Node>
     <Node ToolID="21">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="270" y="162" />
+        <Position x="150" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -346,7 +346,7 @@ iteration = [Engine.IterationNumber]
     </Node>
     <Node ToolID="22">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="342" y="162" />
+        <Position x="222" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -364,7 +364,7 @@ iteration = [Engine.IterationNumber]
     </Node>
     <Node ToolID="19">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="245" y="245" width="181" height="145" />
+        <Position x="125" y="137" width="181" height="145" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -382,7 +382,7 @@ iteration = [Engine.IterationNumber]
       <ChildNodes>
         <Node ToolID="13">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="342" y="306" />
+            <Position x="222" y="198" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -400,7 +400,7 @@ iteration = [Engine.IterationNumber]
         </Node>
         <Node ToolID="23">
           <GuiSettings>
-            <Position x="270" y="294" />
+            <Position x="150" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration />
